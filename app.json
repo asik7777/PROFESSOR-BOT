@@ -31,14 +31,6 @@
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
             "required": true
         },
-        "SHORT_API": {
-            "description": "d124a5ac9a4390c23d14213502d80f3525bafde4",
-            "required": true
-        },
-        "SHORT_URL": {
-            "description": "bindaaslinks.com",
-            "required": true
-        },
         "PICS": {
             "description": "Add some telegraph link of pictures .",
             "required": false
